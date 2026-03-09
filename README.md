@@ -4,3 +4,7 @@ Character-based language models: generating Catalan names across two time period
 Project made in Google Colab, so the Python version used is 3.11. Libraries used:
 - torch
 - matplotlib.pyplot
+# Authors
+- Roberto Punzano (https://github.com/punzanoroberto)
+- Paula Jiménez (https://github.com/paulajimenez27)
+- Victòria Ferrando 
